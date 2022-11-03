@@ -17,10 +17,12 @@ In this project we rewrite the [Top 10 Bars in Gent](https://top5gent.be/blog/to
 
 - [live site](https://top5-structured-data.netlify.app)
 - using [schema.org validator](https://validator.schema.org/#url=https%3A%2F%2Ftop5-structured-data.netlify.app)
-[![schema.org validator result]<img src="README/schema.org.png" width="400">](https://validator.schema.org/#url=https%3A%2F%2Ftop5-structured-data.netlify.app)
+
+[<img src="README/schema.org.png" alt="schema.org validator result" width="400">](https://validator.schema.org/#url=https%3A%2F%2Ftop5-structured-data.netlify.app)
 - using [Google rich results validator](https://search.google.com/test/rich-results/result?id=wyayWg9_UK4oeJDx_eDH7Q)
 - Google [search result preview](https://search.google.com/test/rich-results/result/preview?id=wyayWg9_UK4oeJDx_eDH7Q)
-[![Rich result preview]<img src="README/rich_result.png" width="400">](https://search.google.com/test/rich-results/result/preview?id=wyayWg9_UK4oeJDx_eDH7Q)
+
+[<img src="README/rich_result.png" alt="Rich result preview" width="400">](https://search.google.com/test/rich-results/result/preview?id=wyayWg9_UK4oeJDx_eDH7Q)
 
 ## Original Site
 
