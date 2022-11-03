@@ -6,7 +6,7 @@ In this project we rewrite the [Top 10 Bars in Gent](https://top5gent.be/blog/to
 
 ## Rewrite
 
-### JSON-LD exaples
+### JSON-LD examples
 
 - QAPage
   https://github.com/bengeendokter/HOGENT-top5-structured-data/blob/ef4e0b6ac0179c62d39acc7cfb02c6874611bfea/public/index.html#L71-L94
