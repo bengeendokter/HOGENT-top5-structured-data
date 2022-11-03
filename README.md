@@ -4,14 +4,20 @@
 In this project we rewrite the [Top 10 Bars in Gent](https://top5gent.be/blog/top-10-bars-in-gent) blogpost and add stuctured data schema's using JSON-LD.
 
 ## Rewrite
+### JSON-LD exaples
+- QAPage
+https://github.com/bengeendokter/HOGENT-top5-structured-data/blob/ef4e0b6ac0179c62d39acc7cfb02c6874611bfea/public/index.html#L71-L94
+- PubOrBar
+https://github.com/bengeendokter/HOGENT-top5-structured-data/blob/ef4e0b6ac0179c62d39acc7cfb02c6874611bfea/public/index.html#L95-L110
 
+### Links
 - [live site](https://top5-structured-data.netlify.app)
-- using schema.org validator (**TODO**)
-- using Google rich results validator (**TODO**)
-- Google search result preview (**TODO**)
+- using [schema.org validator](https://validator.schema.org/#url=https%3A%2F%2Ftop5-structured-data.netlify.app)
+- using [Google rich results validator](https://search.google.com/test/rich-results/result?id=-hvIumSwyTH24jbqOH7DOQ)
+- Google [search result preview](https://search.google.com/test/rich-results/result/preview?id=-hvIumSwyTH24jbqOH7DOQ)
 
 ## Original Site
-
+### Links
 - [live site](https://top5gent.be/blog/top-10-bars-in-gent)
 - using [schema.org validator](https://validator.schema.org/#url=https%3A%2F%2Ftop5gent.be%2Fblog%2Ftop-10-bars-in-gent)
 - using [Google rich results validator](https://search.google.com/test/rich-results/result?id=gwBuNO3oZV-M9hZ7W118bg)
